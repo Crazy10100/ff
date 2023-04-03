@@ -27,6 +27,14 @@ cd ff
 
 ls
 
+python banear.py
+
+ls
+
+python atia.py
+
+ls
+
 play PTT-20221128-WA0001.opus
 
 ls
